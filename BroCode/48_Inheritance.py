@@ -1,5 +1,5 @@
 # Inheritance allows a class to inherit attributes and method from another class (it's parent class)
-# It is one of the four main pillars of OOPs and it helps with code reuseability and extensibility 
+# It is one of the four main pillars of OOPs and it helps with code reusability and extensibility 
 
 class Animal: 
     def __init__(self, name):
